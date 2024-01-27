@@ -42,20 +42,20 @@ export default function Experience()
                         position={ [ 0, 1.56, - 1.4 ] }
                         rotation-x={ - 0.256 }
                     >
-                        <iframe src="https://2d-webo.vercel.app/" />
+                        <iframe src="https://dexters-laboratory.vercel.app/" />
                     </Html>
                 </primitive>
 
-                <Text
-                    font="real-madrid-19-20.woff"
-                    fontSize={ 1 }
-                    position={ [ 1.5, 1, 0.50 ] }
-                    rotation-y={ - 1.25 }
-                    maxWidth={ 2 }
-                    scale = {0.5}
-                >
-                    JAYESH SHETE
-                </Text>
+                // <Text
+                //     font="real-madrid-19-20.woff"
+                //     fontSize={ 1 }
+                //     position={ [ 1.5, 1, 0.50 ] }
+                //     rotation-y={ - 1.25 }
+                //     maxWidth={ 2 }
+                //     scale = {0.5}
+                // >
+                //     JAYESH SHETE
+                // </Text>
             </Float>
         </PresentationControls>
 
