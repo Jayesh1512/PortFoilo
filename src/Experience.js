@@ -46,16 +46,17 @@ export default function Experience()
                     </Html>
                 </primitive>
 
-                // <Text
-                //     font="real-madrid-19-20.woff"
-                //     fontSize={ 1 }
-                //     position={ [ 1.5, 1, 0.50 ] }
-                //     rotation-y={ - 1.25 }
-                //     maxWidth={ 2 }
-                //     scale = {0.5}
-                // >
-                //     JAYESH SHETE
-                // </Text>
+                {/* <Text
+                    font="real-madrid-19-20.woff"
+                    fontSize={ 1 }
+                    position={ [ 1.5, 1, 0.50 ] }
+                    rotation-y={ - 1.25 }
+                    maxWidth={ 2 }
+                    scale = {0.5}
+                >
+                    JAYESH SHETE
+                </Text>
+                */}
             </Float>
         </PresentationControls>
 
